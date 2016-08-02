@@ -44,5 +44,6 @@ Additional sections for an annotated version of *University Control* may include
 All documents, unless otherwise indicated are licensed in the Public Domain. The texts should be attributed as follows:
 
 Cattell, James McKeen. *University Control*. New York: The Science Press, 1913.
+
 Cattell, James McKeen. *The University and Business Methods.* The Independent, Vol 59. (Dec. 28, 1905). 1514-1516.
 
